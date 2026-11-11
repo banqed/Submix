@@ -1,3 +1,6 @@
+<img width="1156" height="938" alt="image" src="https://github.com/user-attachments/assets/2291193d-322c-4127-9d25-ccdf4e36a039" />
+
+
 # Submix
 
 A per-app audio mixer for macOS with a 1-bit classic-Mac look.
